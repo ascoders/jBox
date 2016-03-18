@@ -12,6 +12,7 @@
     "ui",
     "images"
   ],
+  "main": "source/jBox.js",
   "version": "0.3.2",
   "homepage": "http://stephanwagner.me/jBox",
   "download": "https://github.com/StephanWagner/jBox/archive/master.zip",
